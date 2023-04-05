@@ -1,0 +1,8 @@
+/tmp/
+!/tmp/no-cash-data/
+/.idea/
+/temp/*
+*.рус
+*.[oa]
+/t?mp/*
+*~
